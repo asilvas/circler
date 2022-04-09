@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/asilvas/circler#readme",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-fetch": "^2.6.1",
     "yargs": "^14.2.0"
   }
